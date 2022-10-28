@@ -54,7 +54,7 @@ npm build
 ```
 
 ## Authors
-- Rabra Hierpa (@rabira-hierpa/@rzc0des)
+- Rabra Hierpa ([@rabira-hierpa](https://github.com/rabira-hierpa)/[@rzc0des](https://github.com/rzc0des))
 - Kirubel Solomon (@kirubel05)
 
 ## Built With
