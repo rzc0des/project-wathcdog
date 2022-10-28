@@ -53,13 +53,17 @@ npm install #or yarn start
 npm build
 ```
 
+## Authors
+- Rabra Hierpa (@rabira-hierpa/@rzc0des)
+- Kirubel Solomon (@kirubel05)
+
 ## Built With
 
 * [React](https://reactjs.org/) - The frontend UI framework used
 * [Yarn](https://yarnpkg.com/en/) - Dependency Management
 * [react-chart-js](https://github.com/jerairrest/react-chartjs-2) - Used for drawing project charts
-* Express - Used for building the RESTful API
-* Passport - Used for user authentication
+* [Express](https://expressjs.com/) - Used for building the RESTful API
+* [Passport](https://www.passportjs.org/) - Used for user authentication
 
 ## License
 
